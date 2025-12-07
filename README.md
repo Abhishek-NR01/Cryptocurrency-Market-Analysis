@@ -19,7 +19,7 @@ This dashboard helps traders, analysts, investors, and researchers gain quick in
 These KPIs give an instant overview of market conditions.
 
 
-⭐ 📈 𝟮. 𝗦𝘆𝗺𝗯𝗼𝗹-𝗪𝗶𝘀𝗲 𝗩𝗼𝗹𝘂𝗺𝗲 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
+📈 𝟮. 𝗦𝘆𝗺𝗯𝗼𝗹-𝗪𝗶𝘀𝗲 𝗩𝗼𝗹𝘂𝗺𝗲 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀
 
 A horizontal bar chart showing:
 
@@ -29,7 +29,7 @@ A horizontal bar chart showing:
 Helps understand asset popularity & liquidity.
 
 
-⭐ 🏷️ 𝟯. 𝗦𝗹𝘂𝗴-𝗪𝗶𝘀𝗲 𝗛𝗶𝗴𝗵 𝗣𝗿𝗶𝗰𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
+🏷️ 𝟯. 𝗦𝗹𝘂𝗴-𝗪𝗶𝘀𝗲 𝗛𝗶𝗴𝗵 𝗣𝗿𝗶𝗰𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
 
 Breakdown of highest market values across different crypto slugs such as:
 
@@ -42,7 +42,7 @@ Breakdown of highest market values across different crypto slugs such as:
 This reveals which tokens show extreme price peaks.
 
 
-⭐ 🕒 𝟰. 𝗠𝗼𝗻𝘁𝗵𝗹𝘆 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗧𝗿𝗲𝗻𝗱
+🕒 𝟰. 𝗠𝗼𝗻𝘁𝗵𝗹𝘆 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗧𝗿𝗲𝗻𝗱
 
 A smooth line chart visualizing:
 
@@ -51,7 +51,7 @@ A smooth line chart visualizing:
 • Seasonal/quarter-based trends
 
 
-⭐ 🍩 𝟱. 𝗠𝗮𝗿𝗸𝗲𝘁 𝗦𝗵𝗮𝗿𝗲 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻
+🍩 𝟱. 𝗠𝗮𝗿𝗸𝗲𝘁 𝗦𝗵𝗮𝗿𝗲 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻
 
 A colorful donut chart representing the market share of each major crypto symbol:
 
@@ -59,7 +59,7 @@ A colorful donut chart representing the market share of each major crypto symbol
 • Shows how much each symbol contributes to total market value.
 
 
-⭐ 📅 𝟲. 𝗤𝘂𝗮𝗿𝘁𝗲𝗿 𝗙𝗶𝗹𝘁𝗲𝗿 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻
+📅 𝟲. 𝗤𝘂𝗮𝗿𝘁𝗲𝗿 𝗙𝗶𝗹𝘁𝗲𝗿 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻
 
 Interactive slicers allow filtering data by quarters:
 
